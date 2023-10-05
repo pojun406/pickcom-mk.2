@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>PickCom:대한민국 1등 PC 쇼핑몰</title>
+    <title>PickCom:견적추천 커뮤니티</title>
     <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.png" />
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
@@ -86,22 +86,6 @@
                                     <input type="text" id="nickName" name="MEMBER_NICKNAME" placeholder="닉네임을 입력" required>
                                 </td>
                             </tr>
-                            <%--<tr>
-                                <th>
-                                    <span class="essential">*</span>
-                                    성별
-                                </th>
-                                <td>
-                                    <label>
-                                        <input type="radio" name="km_gentder" value="1" checked>
-                                        &nbsp;남
-                                    </label>
-                                    <label>
-                                        <input type="radio" name="km_gentder" value="2">
-                                        &nbsp;여
-                                    </label>
-                                </td>
-                            </tr>--%>
                             <tr>
                                 <th>
                                     <span class="essential">*</span>
@@ -126,30 +110,6 @@
                                     <button type="button" class="btn btn-secondary" id="codeBtn" onclick="verifyEmailCode()">인증번호 확인</button>
                                 </td>
                             </tr>
-                            <%--<tr>
-                                <th>
-                                    <span class="essential">*</span>
-                                    휴대폰
-                                </th>
-                                <td>
-                                    <input type="text" name="km_hp" placeholder="휴대폰번호 입력" required>
-                                    <span class="msgHp"> &nbsp;&nbsp;-포함 13자리를 입력하세요.</span>
-                                </td>
-                            </tr>
-                            <tr class="addr">
-                                <th>주소</th>
-                                <td>
-                                    <div>
-                                        <input type="text" name="km_zip" id="zip" placeholder="우편번호 입력 클릭" readonly>
-                                    </div>
-                                    <div>
-                                        <input type="text" name="km_addr1" id="addr1" size="50" placeholder="주소를 검색하세요." readonly>
-                                    </div>
-                                    <div>
-                                        <input type="text" name="km_addr2" id="addr2" size="50" placeholder="상세주소를 입력하세요.">
-                                    </div>
-                                </td>
-                            </tr>--%>
                         </table>
                 </section>
                 <div>

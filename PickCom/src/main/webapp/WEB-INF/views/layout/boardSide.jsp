@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게임리뷰게시판</title>
+<title>PickCom:견적추천 커뮤니티</title>
 <link rel="stylesheet"
 	href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
 <link
@@ -19,13 +19,7 @@
   <hr>
   <ul class="nav nav-pills flex-column mb-auto">
     <li class="nav-item">
-      <a href="/../board/list.do" class="nav-link link-dark" aria-current="page" onclick="changeActiveClass(this)">
-        <svg class="bi pe-none me-2" width="16" height="16"></svg>
-        전체 게시판
-      </a>
-    </li>
-    <li>
-      <a href="/../board/cateList.do?cate=공지" class="nav-link link-dark" onclick="changeActiveClass(this)">
+      <a href="/../board/cateList.do?cate=공지" class="nav-link link-dark" aria-current="page" onclick="changeActiveClass(this)">
         <svg class="bi pe-none me-2" width="16" height="16"></svg>
         공지사항
       </a>
@@ -43,15 +37,15 @@
       </a>
     </li>
     <li>
-      <a href="/../board/cateList.do?cate=팁&정보" class="nav-link link-dark" onclick="changeActiveClass(this)">
+      <a href="/../board/cateList.do?cate=사진" class="nav-link link-dark" onclick="changeActiveClass(this)">
         <svg class="bi pe-none me-2" width="16" height="16"></svg>
-        팁&정보
+        사진 게시판
       </a>
     </li>
     <li>
-      <a href="/../board/cateList.do?cate=질의응답" class="nav-link link-dark" onclick="changeActiveClass(this)">
+      <a href="/../board/cateList.do?cate=질문" class="nav-link link-dark" onclick="changeActiveClass(this)">
         <svg class="bi pe-none me-2" width="16" height="16"></svg>
-        질의응답
+       질문 게시판
       </a>
     </li>
   </ul>

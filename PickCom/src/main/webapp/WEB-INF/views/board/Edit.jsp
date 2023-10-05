@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게임리뷰게시판</title>
+<title>PickCom:견적추천 커뮤니티</title>
 </head>
 <div
 	class="position-absolute top-50 start-50 translate-middle h-75 d-inline-block"

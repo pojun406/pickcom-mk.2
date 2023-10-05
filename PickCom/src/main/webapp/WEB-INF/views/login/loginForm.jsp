@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>PickCom:대한민국 1등 PC 쇼핑몰</title>
+    <title>PickCom:견적추천 커뮤니티</title>
     <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.png"/>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>

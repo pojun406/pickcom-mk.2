@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게임리뷰게시판</title>
+<title>PickCom:견적추천 커뮤니티</title>
 <link rel="stylesheet"
 	href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
 <link
@@ -27,7 +27,7 @@
     <li>
       <a href="/my/myPost.do" class="nav-link link-dark">
         <svg class="bi pe-none me-2" width="16" height="16"></svg>
-        작성글
+        작성게시글
       </a>
     </li>
     <li>
@@ -39,7 +39,7 @@
     <li>
       <a href="/my/likePost.do" class="nav-link link-dark">
         <svg class="bi pe-none me-2" width="16" height="16"></svg>
-        추천한 글
+        추천게시글
       </a>
     </li>
   </ul>

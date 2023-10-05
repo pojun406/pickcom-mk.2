@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게임리뷰게시판</title>
+<title>PickCom:견적추천 커뮤니티</title>
 <link rel="stylesheet"
 	href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
 <link
@@ -21,8 +21,9 @@
 				class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
 				<ul
 					class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-					<li><a href="/../board/list.do"
-						class="nav-link px-10 text-white">게임 리뷰 게시판</a></li>
+					<a href="../main.html">
+						<img src="../../img/header_logo.png" alt="로고">
+					</a>
 					<c:if test="${ sessionScope.num != null }">
 					</c:if>
 				</ul>

@@ -4,7 +4,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>회원가입 성공</title>
+  <title>PickCom:견적추천 커뮤니티</title>
 
 </head>
 <body>
