@@ -7,7 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class MainClass {
-    @RequestMapping("/mainForm.do")
+    @RequestMapping("/main.do")
     public ModelAndView mainForm(CommandMap commandMap) throws Exception {
         ModelAndView mv = new ModelAndView("main");
 
